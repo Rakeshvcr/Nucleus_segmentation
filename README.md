@@ -11,3 +11,5 @@ In U-Net there are a large number of feature channels in the upsampling part, wh
 ## Result
 
 ![alt text](https://github.com/Rakeshvcr/Nucleus_segmentation/blob/master/images/Image.png =750x300)
+
+## Reference
