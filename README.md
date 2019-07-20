@@ -9,7 +9,6 @@ In U-Net there are a large number of feature channels in the upsampling part, wh
 <img src="https://github.com/Rakeshvcr/Nucleus_segmentation/blob/master/images/u-net-architecture.png" width="750">
 
 ## Result
-
-<img src="https://github.com/Rakeshvcr/Nucleus_segmentation/blob/master/images/Image.png" height = "350">
+<img src="https://github.com/Rakeshvcr/Nucleus_segmentation/blob/master/images/Image.png" height = "450">
 
 ## Reference
