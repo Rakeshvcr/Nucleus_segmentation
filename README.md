@@ -12,7 +12,6 @@ In U-Net there are a large number of feature channels in the upsampling part, wh
 
 <img src="https://github.com/Rakeshvcr/Nucleus_segmentation/blob/master/images/Image.png" width="550" height="200"> 
 
-&nbsp;
 ## Reference
 
 1. To know more about U-Net model. [here](https://arxiv.org/pdf/1505.04597.pdf)
