@@ -8,12 +8,15 @@ In U-Net there are a large number of feature channels in the upsampling part, wh
 
 <img src="https://github.com/Rakeshvcr/Nucleus_segmentation/blob/master/images/u-net-architecture.png" width="700">
 
+## Data
+Get Nucleus data [Here](https://drive.google.com/file/d/1BdIovcY9NzwXhP146u98xcXRp_ZqO-zv) 
+
 ## Result
 
 <img src="https://github.com/Rakeshvcr/Nucleus_segmentation/blob/master/images/Image.png" width="550" height="200"> 
 
 ## Reference
 
-1. To know more about U-Net model. [here](https://arxiv.org/pdf/1505.04597.pdf)
-2. To know more about Nucleus [refere](https://www.cancer.org/treatment/understanding-your-diagnosis/tests/testing-biopsy-and-cytology-specimens-for-cancer/what-doctors-look-for.html)
+1. To know more about U-Net model. [Here](https://arxiv.org/pdf/1505.04597.pdf)
+2. To know more about Nucleus [Refere](https://www.cancer.org/treatment/understanding-your-diagnosis/tests/testing-biopsy-and-cytology-specimens-for-cancer/what-doctors-look-for.html)
 3. Keras implementation. <https://www.kaggle.com/keegil/keras-u-net-starter-lb-0-277>
