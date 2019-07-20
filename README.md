@@ -6,10 +6,10 @@ The nucleus is an organelle found in most eukaryotic cells, The primary function
 
 In U-Net there are a large number of feature channels in the upsampling part, which allow the network to propagate context information to higher resolution layers. As a consequence, the expansive path is more or less symmetric to the contracting part, and yields a u-shaped architecture.
 
-![alt text](https://github.com/Rakeshvcr/Nucleus_segmentation/blob/master/images/u-net-architecture.png | width =1000)
+![alt text](https://github.com/Rakeshvcr/Nucleus_segmentation/blob/master/images/u-net-architecture.png) <!-- .element height="50%" width="50%" -->
 
 ## Result
 
-![alt text](https://github.com/Rakeshvcr/Nucleus_segmentation/blob/master/images/Image.png =750x300)
+![alt text](https://github.com/Rakeshvcr/Nucleus_segmentation/blob/master/images/Image.png)
 
 ## Reference
