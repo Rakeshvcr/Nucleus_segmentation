@@ -10,6 +10,6 @@ In U-Net there are a large number of feature channels in the upsampling part, wh
 
 ## Result
 
-<img src="https://github.com/Rakeshvcr/Nucleus_segmentation/blob/master/images/Image.png" width="750", height = "350">
+<img src="https://github.com/Rakeshvcr/Nucleus_segmentation/blob/master/images/Image.png" width="750" height = "350">
 
 ## Reference
